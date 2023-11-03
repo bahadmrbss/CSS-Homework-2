@@ -1,0 +1,52 @@
+div {
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.input {
+    width: 300px;
+}
+
+.box {
+    margin: 1px;
+}
+
+.bx-gray {
+    background-color: rgb(228, 226, 226);
+}
+
+.bx-cyan {
+    background-color: rgb(179, 228, 228);
+    float: inline-start;
+}
+
+button {
+    margin: 1px;
+}
+
+.left {
+    width: 300px;
+    height: 70px;
+    padding: 20px;
+    margin: 1px;
+    font-size: 18px;
+}
+
+.mid {
+    width: 200px;
+    height: 90px;
+    padding: 10px;
+    margin: 1px;
+    font-size: 18px;
+
+}
+
+.right {
+    width: 345px;
+    height: 80px;
+    padding: 15px;
+    margin: 1px;
+    font-size: 18px;
+}
+
